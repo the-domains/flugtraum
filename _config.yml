@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.390681
+color:
+  saturation: 0
+  lightness: 1
+  brandStrength: 0.7653136
+  brandColors:
+    - '#FFFFFF'
+    - '#165599'
+    - '#B8B8B8'
+    - '#7197C1'
+    - '#E4EBF3'
+  rhythmicContrast: 0.8369176
+name: flugtraum
